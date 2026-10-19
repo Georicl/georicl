@@ -1,12 +1,22 @@
-# Hello, I'm Georicl
+# Hello, I'm Xiang Yang (Georicl)
 
-A master's student working on bioinformatics and building tools for research.
+I'm a master's student in Fisheries Development, working on computational
+biology and bioinformatics. I build tools for browsing biological sequences
+and organizing research workflows.
 
-My interests include genomics, data science, single-cell analysis,
-spatial transcriptomics, and data integration.
+## Research
 
-I also develop tools for browsing biological sequences and organizing
-research workflows.
+My master's research is in computational biology, with a focus on comparative
+genomics, population genetics, and genome assembly and annotation. I have also
+worked on graph pangenomics, graph representation learning, and single-cell and
+spatial transcriptomics.
+
+- **Genomics** — genome assembly and annotation, SNP and structural variation,
+  population differentiation, and evolutionary genomics
+- **Methods** — graph pangenomes, graph representation learning, VGAE-based
+  genotype–phenotype prediction, and multimodal data integration
+- **Single-cell** — scRNA-seq, spatial transcriptomics, and cell composition
+  analysis
 
 ## Currently
 
@@ -14,7 +24,7 @@ research workflows.
 - Plotting mostly with R and ggplot2
 - Reading open-source code to learn single-cell and spatial analysis; contributing
   patches to Squidpy and PyTorch Geometric, and exploring SpatialData
-- Learning Rust for command-line tools
+- Learning Rust for CLI tooling
 
 ## Projects
 
