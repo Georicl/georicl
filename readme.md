@@ -24,13 +24,13 @@ spatial transcriptomics.
 - Plotting mostly with R and ggplot2
 - Reading open-source code to learn single-cell and spatial analysis; contributing
   patches to Squidpy and PyTorch Geometric, and exploring SpatialData
-- Learning Rust for CLI tooling
+- Learning Rust by building seqviz-rs, a terminal browser for biological data
 
 ## Projects
 
-- [seqviz](https://github.com/Georicl/seqviz) — A terminal viewer for
-  FASTA / FASTQ / VCF files, with colored sequences, an interactive browser,
-  and N50/GC statistics. `Python` `Textual`
+- [seqviz-rs](https://github.com/Georicl/seqviz-rs) — An interactive terminal
+  browser for FASTA, FASTQ, SAM/BAM, and VCF files, with sequence coloring,
+  quality visualization, and variant inspection. `Rust`
 - [SNP-VGAE](https://github.com/Georicl/SNP-VGAE) — Two-stage SNP-VAE + VGAE
   framework for genomic phenotype prediction with SNP-level attribution.
   `Python` `PyTorch`
